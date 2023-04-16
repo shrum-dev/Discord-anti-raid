@@ -3,6 +3,8 @@ A simple discord anti raid bot which blocks discord server invites and social me
 
 # How to use it 
 > Its all in the code, read the `#`
+> It timeouts user for a week! Make sure you setup the timeout `role` properly. 
+> If you want to change the duration change in `Line 61` [Seconds]
 
 # Preview 
 > https://youtu.be/H1sRF8kTUXA
