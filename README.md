@@ -1,20 +1,11 @@
-# Discord-anti-raid
-A simple discord anti raid bot which blocks discord server invites and social media links.
+# WARNING
+> This is actually against discord's TOS! It goes under the category "cyber bullying" if it offends someone. 
+> I'm warning yall to edit the messages a little nicer if you're going to use this bot in a 200+ members server. 
 
-# How to use it 
-> Its all in the code, read the `#`
-> It timeouts user for a week! Make sure you setup the timeout `role` properly. 
-> If you want to change the duration change in `Line 61` [Seconds]
+# NEW VERSION
+> This version works, I'm gonna make a new server to make the bot actually time out user instead of it giving role!
 
-# Preview 
-> https://youtu.be/H1sRF8kTUXA
-
-# Why I make this?
-> I made this to get rid of my boredom, If you want support just create ticket. 
-> My friend asked for source so here it is :)
-
-# pfff
-> Dont skid! Your a nasty stinking nigger if you skid this garbage. 
-
-# Discord server
-`https://discord.gg/planets`
+# NEW SERVER
+> Old server got termed, here is new one 🤡
+> discord.gg/kasada
+> Server is not open yet, If you want support regarding this shit project dm me instead!
