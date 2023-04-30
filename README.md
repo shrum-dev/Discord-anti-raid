@@ -3,7 +3,7 @@
 > I'm warning yall to edit the messages a little nicer if you're going to use this bot in a 200+ members server. 
 
 # NEW VERSION
-> This version works, I'm gonna make a new server to make the bot actually time out user instead of it giving role!
+> This version works, I'm gonna make a new version to make the bot actually time out user instead of it giving role!
 
 # NEW SERVER
 > Old server got termed, here is new one 🤡
